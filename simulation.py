@@ -11,6 +11,8 @@ MacOS模拟点击各类应用的demo
 tips: 我就是来了一个shabi实验室
 '''
 
+
+
 def simulationFunc():
 
     loc1_x,loc1_y = 1146,1079
