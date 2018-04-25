@@ -22,7 +22,7 @@
  }
 
 ```
-###Descrpition
+### Descrpition
 
 magic | version_major | version_minor | thiszone | sigfigs | snaplen | linktype
 | -   | :-:           | :-:           | :-:      | :-:     | :-:     |     -:  |
@@ -72,7 +72,7 @@ DWORD       microTime
 }
 
 ```
-###Descrpition
+### Descrpition
 GMTtime | microTime| caplen | len |
 |:-:    | :-:      | :-:    |  -: |
 | 32-bit |32-bit   | 32-bit | 32-bit|
