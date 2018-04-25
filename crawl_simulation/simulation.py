@@ -1,6 +1,6 @@
-from getLocation import returnLocation
-import pyautogui as pag
 import time
+
+import pyautogui as pag
 
 '''
 
